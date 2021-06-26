@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/imagesearchapp/MainActivity.java
+ com.example.imagesearchapp.MainActivity
+com/example/imagesearchapp/BuildConfig.java
+ com.example.imagesearchapp.BuildConfig
